@@ -17,6 +17,12 @@ in **one to two weeks**, I plan to release a **tutorial and a setup script** tha
 
 ***
 
+Update 12/27: The "beta" script is ready; however, it currently only works on 1080p and 720p screens and still contains several bugs. Laptop and desktop compatibility is still under development, but the system should be relatively stable by now.
+
+I’m releasing these notes today because I’m currently restructuring the entire script due to compatibility issues. I still need to write proper documentation for the system. Given the timeframe I previously promised, it may not be possible to release the system in the state I originally intended, so delays are likely.
+
+***
+
   ⚠️Important Disclaimer⚠️
 
 **I am not responsible for any damage, broken hardware, or data loss that may be caused by using this system or the provided scripts. Use this software at your own risk.**
